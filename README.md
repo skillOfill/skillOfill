@@ -2,7 +2,7 @@
 - 👀 I’m interested in building innovative and impactful software solutions  
 - 🌱 I’m currently learning advanced backend development, system design, and AI integration  
 - 💞️ I’m looking to collaborate on open-source tools, automation projects, and AI-powered applications  
-- 📫 How to reach me: preeti5095ee@gmail.com or connect on LinkedIn: linkedin.com/in/preeti-garhwal  
+- 📫 How to reach me: preeti5095ee@gmail.com or connect on linkedin.com/in/preeti-garhwal  
 - 😄 Pronouns: she/her  
 
 <!---
